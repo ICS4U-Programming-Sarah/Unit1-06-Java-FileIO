@@ -1,0 +1,7 @@
+The sum of numbers is: 23
+Invalid input, For input string: "Lala"
+The sum of numbers is: 26
+The sum of numbers is: -46
+The sum of numbers is: 0
+The sum of numbers is: 0
+The sum of numbers is: 21
