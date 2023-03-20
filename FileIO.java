@@ -53,7 +53,7 @@ public final class FileIO {
                 // In case of user entering empty line,
                 // display sum as in 0.
                 if (newLine.isEmpty()) {
-                    write.println("The sum of numbers is: 0");
+                    write.println("No integers detected.");
                     continue;
                 }
                 // Split string into any array of strings.
